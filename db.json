@@ -1,56 +1,11 @@
 {
-    "overhead-updates": [
+    "posts": [
         {
-            "company": {
-                "id": "0f2861a4-c001-42bd-8004-0f4a8cf8fec9"
-            },
-            "firstEventDate": "2022-01-01"
+            "id": 1,
+            "title": "hello"
         }
     ],
-    "overhead-updates/0f2861a4-c001-42bd-8004-0f4a8cf8fec9": {
-        "events": [
-            {
-                "document": {
-                    "id": "d7af486e-f8f8-4406-9ea0-a211517e2162",
-                    "lineNumber": 4,
-                    "description": "Платежное поручение х113",
-                    "url": "e1cib/data/Документ.ПлатжноеПоручение?ref=d7af486ef8f844069ea0a211517e2162\n"
-                },
-                "type": "PRIMARY",
-                "corrected": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "lineNumber": "string"
-                },
-                "date": "2022-05-12T23:59:59.9999",
-                "purpose": "Оплата услуг по договору б/н от н/д в соответствии с х.з.",
-                "masterItem": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "title": "string"
-                },
-                "salesExpenses": true,
-                "responsibilityCenter": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "title": "string"
-                },
-                "contour": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "title": "string"
-                },
-                "company": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "title": "string"
-                },
-                "contractor": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "title": "string"
-                },
-                "fundsSource": {
-                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "title": "string"
-                },
-                "amount": 29432.15
-            }
-        ],
-        "continuationToken": "2022-05-18/ee0e16d6-4a28-47a0-9185-fcbab5ef9f38/3"
+    "profile": {
+        "name": "typicode"
     }
 }
